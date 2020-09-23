@@ -12,6 +12,7 @@
 [![Linkedin: sandipsubedi](https://img.shields.io/badge/-sandipsubedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandipsubedi/)](https://www.linkedin.com/in/sandipsubedi/) &nbsp;
 [![GitHub Sandip Subedi](https://img.shields.io/github/followers/sandipsubedi?label=follow&style=social)](https://github.com/sandipsubedi)
 
+<a href="https://stackexchange.com/users/5052383/sandip-subedi"><img src="https://stackexchange.com/users/flair/5052383.png" width="208" height="58" alt="profile for Sandip Subedi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sandip Subedi on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ### Tech Stack
 - 💻  &nbsp; Ruby | JavaScript | Java | C# | Python | Go
