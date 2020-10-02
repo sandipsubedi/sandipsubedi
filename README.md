@@ -8,7 +8,7 @@
 - 😄 &nbsp; Pronouns: he/him/his
 
 ### Social
-[![Twitter: Sandip Subedi](https://img.shields.io/twitter/follow/san_dip_subedi?style=social)](https://twitter.com/san_dip_subedi) &nbsp;
+[![Twitter: Sandip Subedi](https://img.shields.io/twitter/follow/sandipsubedi_?style=social)](https://twitter.com/sandipsubedi_) &nbsp;
 [![Linkedin: sandipsubedi](https://img.shields.io/badge/-sandipsubedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandipsubedi/)](https://www.linkedin.com/in/sandipsubedi/) &nbsp;
 [![GitHub Sandip Subedi](https://img.shields.io/github/followers/sandipsubedi?label=follow&style=social)](https://github.com/sandipsubedi)
 
