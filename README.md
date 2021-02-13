@@ -1,9 +1,6 @@
 ## Hi there, thanks for stopping by. I am Sandip. Currently based in Kansas City. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### About me
-
-- 🔭 &nbsp; I’m currently working on Cerner's private cloud.
-- 🌱 &nbsp; I’m currently learning Go.
 - 📫 &nbsp; How to reach me: www.sandipsubedi.com
 - 😄 &nbsp; Pronouns: he/him/his
 
