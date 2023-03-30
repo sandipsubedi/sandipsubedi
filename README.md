@@ -1,4 +1,4 @@
-## Hi there, thanks for stopping by. I am Sandip. Currently based in Kansas City. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, thanks for stopping by. I am Sandip. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### About me
 - 📫 &nbsp; How to reach me: www.sandipsubedi.com
